@@ -1,6 +1,5 @@
 import keyboard
 import pymem
-import pymem.process
 import mouse
 import time
 
