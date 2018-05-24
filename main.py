@@ -5,7 +5,6 @@ import time
 
 local_offset = (0xCE32F0)
 entity_offset = (0xCF0E3C)
-hp_offset = (0xA8)
 team_offset = (0xB0)
 flags_offset = (0x37C)
 in_cross_offset = (0x177C)
