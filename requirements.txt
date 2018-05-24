@@ -1,0 +1,4 @@
+pymem
+mouse
+keyboard
+pywin32api
